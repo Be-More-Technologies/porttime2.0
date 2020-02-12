@@ -1,0 +1,7 @@
+{
+  "name": "porttime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
